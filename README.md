@@ -31,6 +31,6 @@ The goal of this project is to implement a custom ERC20 token with transaction t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sec-ico-contracts.git
+git clone https://github.com/soheil-vafaei/SolarEnergyCoin.git
 cd sec-ico-contracts
 
