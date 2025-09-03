@@ -34,12 +34,3 @@ The goal of this project is to implement a custom ERC20 token with transaction t
 git clone https://github.com/your-username/sec-ico-contracts.git
 cd sec-ico-contracts
 
-
-📖 Requirements
-Node.js v18+
-Hardhat
-MetaMask or any wallet to interact with contracts on test networks
-📌 Roadmap
- Deployment scripts for test networks
- Frontend integration for ICO purchase
- Extended test coverage
